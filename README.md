@@ -1,4 +1,4 @@
-<h1 align="center">整理的资料</h1>
+<h1 align="center">For Study</h1>
 
 ## 0、Git操作
 

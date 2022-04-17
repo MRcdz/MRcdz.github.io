@@ -1,5 +1,19 @@
 <h1 align="center">For Study</h1>
 
+## 火狐打开非安全链接
+
+```
+1、在打不开的页面，地址栏中输入：about:config
+
+2、点击“ 我了解此风险 ”
+
+3、在显示的搜索栏中输入：security.enterprise_roots.enabled
+
+4、鼠标右键，选择“切换图标”，此时，对应的值会从false变为true
+
+5、刷新或重启浏览器即可访问
+```
+
 ## 0、Git操作
 
 > **本地操作：**
